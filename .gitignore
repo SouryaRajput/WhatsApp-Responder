@@ -3,4 +3,5 @@ env/
 __pycache__/
 .env
 .DS_Store
-.git
+.gitnode_modules/
+dist/
